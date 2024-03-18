@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Just Learning Guy
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning Java Script
+- 📫 How to reach me: There's no way
+- 😄 Pronouns: he/him
