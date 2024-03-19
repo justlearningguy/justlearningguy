@@ -1,4 +1,4 @@
-## 👋Hi!I'm Emil.I'm beginner web developer  
+## 👋Hi! I'm Emil. I'm beginner web developer  
   
 
 - 🔭 I’m currently working on my study projects  
