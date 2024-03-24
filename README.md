@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emil!;" />
 </h1>
 <h3>A passionate web developer</h3>
+
 - 🔭 I’m currently working on my study projects  
   
 
@@ -11,7 +12,7 @@
 - ⚡ Fun fact: I don't use arch btw  
   
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" align="left" height="" width="100%" />  
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/justlearningguy/justlearningguy/output/github-contribution-grid-snake.svg" width="100%" />
   
 
 <br/>  
