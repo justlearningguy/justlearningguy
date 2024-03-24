@@ -1,6 +1,7 @@
-## 👋Hi! I'm Emil. I'm beginner web developer  
-  
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emil!;" />
+</h1>
+<h3>A passionate web developer</h3>
 - 🔭 I’m currently working on my study projects  
   
 
@@ -16,17 +17,15 @@
 <br/>  
 
 ## My skill set
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 ## Tools that I use
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-                    
+<img src="https://skillicons.dev/icons?i=linux,bash,obsidian,vscode,ps,figma,git,github,figma" />    
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=justlearningguy&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlearningguy&hide_border=true&layout=compact" align="left" />
+<div>
+<img src="https://streak-stats.demolab.com/?user=justlearningguy&count_private=true&theme=react&border_radius=10" width="400px">
+<img src="https://github-readme-stats.vercel.app/api?username=justlearningguy&show_icons=true&theme=react&rank_icon=github&border_radius=10" width="400px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlearningguy&show_icons=true&layout=compact&theme=react&rank_icon=github&border_radius=10" width="400px">
+</div>
